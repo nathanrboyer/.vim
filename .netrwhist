@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/Users/nathan/.vim/README.md'
+let g:netrw_dirhist_9='/Users/nathan/.vim/pack/julia/start/julia-vim/doc'
+let g:netrw_dirhist_8='/Users/nathan/.vim/pack/julia/start/julia-vim'
+let g:netrw_dirhist_7='/Users/nathan/.vim/pack/julia/start/julia-vim/ftplugin'
+let g:netrw_dirhist_6='/Users/nathan/.vim/pack/julia/start/julia-vim'
+let g:netrw_dirhist_5='/Users/nathan/.vim/pack/julia/start/julia-vim/ftdetect'
+let g:netrw_dirhist_4='/Users/nathan/.vim/pack/julia/start/julia-vim'
+let g:netrw_dirhist_3='/Users/nathan/.vim/pack/julia/start/julia-vim/doc'
+let g:netrw_dirhist_2='/Users/nathan/.vim/pack/julia/start/julia-vim'
+let g:netrw_dirhist_1='/Users/nathan/.vim/bundle/julia-vim/autoload'
