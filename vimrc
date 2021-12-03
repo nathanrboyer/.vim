@@ -42,3 +42,6 @@ nnoremap <Bslash> mqO<Esc>`q
 vnoremap K "0P
 nnoremap K "0P
 
+" Load mycolors and set colorscheme
+packadd! mycolors
+colorscheme lilypink
